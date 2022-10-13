@@ -2,7 +2,6 @@
 
 SLAi9 estuda TI e nasceu em Santos, gosta de ler, escrever e jogar, basicamente. 
 Programação é a forma que eu encontrei de conciliar meu gosto por arte e um emprego estável. 
-<img src="‪C:\Users\lucas.rfbarros\Desktop\slai9.png">
 
 ### ATENÇÃO!
 
