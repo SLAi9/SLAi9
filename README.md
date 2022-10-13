@@ -8,3 +8,9 @@ Programação é a forma que eu encontrei de conciliar meu gosto por arte e um e
 -Assinado por: SLAi9, pseudônimo de Lucas RF Barros, também conhecido como Lucão.
 
 -Este perfil é o meio na qual eu escolhi para compartilhar meus projetos de programação. 
+
+<div align="center">
+  <a href="https://github.com/SLAi9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogergabrielsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogergabrielsantos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
