@@ -3,6 +3,9 @@
 SLAi9 estuda TI e nasceu em Santos, gosta de ler, escrever e jogar, basicamente. 
 Programação é a forma que eu encontrei de conciliar meu gosto por arte e um emprego estável. 
 
+<div align ="center">
+  <img height="180em" src="C:\Users\lucas.rfbarros\Desktop\NSC"
+
 ### ATENÇÃO!
 
 -Assinado por: SLAi9, pseudônimo de Lucas RF Barros, também conhecido como Lucão.
