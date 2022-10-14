@@ -5,6 +5,7 @@ Programação é a forma que eu encontrei de conciliar meu gosto por arte e um e
 
 <div align ="center">
   <img height="180em" src="C:\Users\lucas.rfbarros\Desktop\NSC"
+ </div>
 
 ### ATENÇÃO!
 
